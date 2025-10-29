@@ -1,0 +1,12 @@
+{
+  "Records": [
+    {
+      "messageId": "msg-simulada-12345",
+      "body": {
+        "id_produto": "produto-X-456",
+        "produto_nome": "Televisão 50 polegadas",
+        "cliente_coords": [2, 3]
+      }
+    }
+  ]
+}
